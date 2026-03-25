@@ -1,44 +1,38 @@
-# Intelligence as Control: A Diagnostic Clarification of the DIKCA Framework
-## From Epistemic Accumulation to Regulatory Organization
+# Intelligence as Self-Modifying Control: The DIKCA Framework
+## Beyond the Epistemic Assumptions of the DIKW Hierarchy
 
 ---
 
 ### Abstract / 摘要
 
 #### English Version
-**Abstract**— Contemporary artificial intelligence systems are increasingly shaped not only by what they represent, but by how their behavior is governed. Philosophical and technical discourse often treats such governing mechanisms as if they were forms of knowledge or wisdom. This paper argues that this treatment involves a **category error**.
+**Abstract**— Contemporary artificial intelligence systems, particularly large language models (LLMs), are increasingly governed not only by what they know, but by how their behavior is constrained, steered, and revised. Current discourse frequently conflates these governing mechanisms with knowledge itself, leading to conceptual confusion and weakened accountability. This paper argues that such conflation constitutes a fundamental **category error**.
 
-Drawing on distinctions between truth-apt representation and regulatory structure, the paper demonstrates that **knowledge and control belong to different logical types**. A representation may encode a norm without exercising normative force; normative force requires implementation-level constraint rather than semantic description. Conflating epistemic capacity with behavioral governance obscures the architecture of artificial agency and misdirects debates on responsibility.
+To address this, we propose **DIKCA**—an extension of the classical DIKW hierarchy that explicitly introduces **Control** and **Autonomy** as distinct computational and socio-technical layers:
+* **Control:** Specifies permissible and prioritized actions.
+* **Autonomy:** Denotes a system’s functional capacity to modify its own control structures over time.
 
-To clarify this confusion, the paper introduces the **DIKCA framework (Data, Information, Knowledge, Control, Autonomy)**. DIKCA extends the classical DIKW hierarchy by identifying:
-* **Control** as an irreducible regulatory layer.
-* **Autonomy** as meta-control—the functional capacity of a system to modify its own control structures.
-
-Intelligence, on this account, is not epistemic accumulation but the organization and reflexive reorganization of control under constraint. DIKCA is not a metaphysical thesis about the essence of intelligence, nor a new ethical theory. It is a diagnostic clarification of logical dependencies within contemporary AI systems, intended to restore analytic precision to philosophical debates on governance, agency, and responsibility.
+We argue that intelligence, within this framework, is best understood as **self-modifying control** rather than the mere accumulation of knowledge. By separating epistemic capacity from behavioral governance, DIKCA provides a principled basis for algorithmic accountability, legal responsibility, and democratic oversight. The framework clarifies the locus of systemic failures—whether in data, knowledge, control, or autonomy—and enables governance mechanisms that are both technically grounded and socially contestable.
 
 ---
 
 #### 中文
-**摘要**— 当代人工智能系统的形态日益不仅取决于它们表征（Represent）了什么，还取决于它们的行为是如何被治理（Govern）的。哲学和技术论述通常将这种治理机制视为知识或智慧的形式。本文认为，这种处理方式涉及一个**范畴错误 (Category Error)**。
+**摘要**— 当代人工智能系统，尤其是大语言模型（LLMs），日益不仅受到其所“知”内容的驱动，更受到其行为如何被约束、引导和修正的治理。当前的论述经常将这些治理机制与知识本身混为一谈，导致了概念上的混乱并削弱了问责机制。本文认为，这种混淆构成了一个根本性的**范畴错误**。
 
-基于“真值适用表征 (Truth-apt representation)”与“调节结构 (Regulatory structure)”之间的区别，本文论证了**知识与控制属于不同的逻辑类型**。一个表征可以编码规范，但不一定行使规范效力；规范效力需要实现层面的约束，而非语义层面的描述。将认识能力与行为治理混为一谈，掩盖了人工主体性（Artificial Agency）的架构，并误导了关于责任的辩论。
+为了解决这一问题，我们提出了 **DIKCA 框架**——这是对经典 DIKW 层次结构的一种扩展，显式地引入了**控制（Control）**和**自主（Autonomy）**作为独特的计算与社会技术层：
+* **控制：** 明确了允许执行的以及优先处理的动作。
+* **自主：** 指系统随时间修改自身控制结构的功能能力。
 
-为了澄清这一混乱，本文引入了 **DIKCA 框架（数据、信息、知识、控制、自主）**。DIKCA 通过以下定义扩展了经典的 DIKW 层次结构：
-* 将**控制 (Control)** 识别为一个不可还原的调节层。
-* 将**自主 (Autonomy)** 识别为元控制（Meta-control），即系统修改自身控制结构的功能能力。
-
-基于此，智能并非经验知识的累积，而是在约束下对控制的组织与反思性重组。DIKCA 既不是关于智能本质的形而上学命题，也不是一种新的伦理理论。它是对当代 AI 系统内部逻辑依赖关系的诊断性澄清，旨在为有关治理、主体性和责任的哲学辩论恢复分析精确性。
+我们认为，在此框架下，智能最好被理解为**自我修正的控制**，而非知识的累积。通过将认识能力与行为治理分离，DIKCA 为算法问责、法律责任和民主监督提供了原则性基础。该框架阐明了失效发生的具体位置——是源于数据、知识、控制还是自主——并使得治理机制既具备技术根据，又具有社会可争辩性。
 
 ---
 
 ### Keywords / 关键词
 
-* **AI Ethics** (AI 伦理)
-* **Artificial Intelligence** (人工智能)
+* **DIKCA Framework** (DIKCA 框架)
 * **DIKW Hierarchy** (DIKW 层次结构)
-* **Control Theory** (控制理论)
+* **Algorithmic Accountability** (算法问责)
+* **Self-modifying Control** (自我修正控制)
 * **Artificial Agency** (人工主体性)
-* **Category Error** (范畴错误)
 * **AI Governance** (AI 治理)
-* **Large Language Models** (大语言模型)
-* **Levels of Abstraction** (抽象层次)
+* **Category Error** (范畴错误)
